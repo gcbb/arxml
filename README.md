@@ -1,4 +1,7 @@
 # arxmlMerge
++ 完整的arxml合并工具
++ 修改py文件中的arg路径即可
+
 simple arxml file merger 
 
 syntax: arxmlMerge.py inputFolder outputFile
